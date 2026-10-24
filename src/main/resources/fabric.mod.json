@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "visuals",
+  "version": "${version}",
+  "name": "Spike Visuals",
+  "description": "HUD, TargetHUD, Fullbright, hit particles and hand customizer.",
+  "environment": "client",
+  "mixins": ["visuals.mixins.json"],
+  "entrypoints": {
+    "client": ["com.example.visuals.VisualsClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

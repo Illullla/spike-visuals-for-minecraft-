@@ -1,0 +1,10 @@
+{
+  "category.visuals": "Spike Visuals",
+  "key.visuals.arraylist": "Toggle ArrayList",
+  "key.visuals.targethud": "Toggle TargetHUD",
+  "key.visuals.fullbright": "Toggle Fullbright",
+  "key.visuals.hitparticles": "Toggle Hit Particles",
+  "key.visuals.hand": "Toggle Hand Customizer",
+  "key.visuals.gui": "Open menu",
+  "key.visuals.totembar": "Toggle TotemBar"
+}
